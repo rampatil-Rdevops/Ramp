@@ -1,1 +1,4 @@
-will go trip ?
+will go trip?
+
+Say: Yes / no 
+
